@@ -1,0 +1,2577 @@
+[
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 0,
+    "fields": { "name": "100% Pure" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 3,
+    "fields": { "name": "3INA" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 6,
+    "fields": { "name": "3rd Rock Essentials" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 9,
+    "fields": { "name": "A Perfume Organic" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 12,
+    "fields": { "name": "Abba" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 15,
+    "fields": { "name": "Acure" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 18,
+    "fields": { "name": "Adorn Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 21,
+    "fields": { "name": "Aesop" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 24,
+    "fields": { "name": "Aether Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 27,
+    "fields": { "name": "Afterglow Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 30,
+    "fields": { "name": "AG Hair" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 33,
+    "fields": { "name": "Aila Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 36,
+    "fields": { "name": "Alaffia" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 39,
+    "fields": { "name": "Alba Botanica" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 42,
+    "fields": { "name": "Alima Pure" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 45,
+    "fields": { "name": "Amika" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 48,
+    "fields": { "name": "Anastasia Beverly Hills" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 51,
+    "fields": { "name": "Andalou Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 54,
+    "fields": { "name": "Annabelle" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 57,
+    "fields": { "name": "Antipodes" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 60,
+    "fields": { "name": "Antonym" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 63,
+    "fields": { "name": "Arctic Fox" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 66,
+    "fields": { "name": "Ardell" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 69,
+    "fields": { "name": "Ardency Inn" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 72,
+    "fields": { "name": "Aromi" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 75,
+    "fields": { "name": "Arquiste" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 78,
+    "fields": { "name": "As I Am" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 81,
+    "fields": { "name": "Astonish" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 84,
+    "fields": { "name": "Athar\u2019a Pure" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 87,
+    "fields": { "name": "Attitude" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 90,
+    "fields": { "name": "Au Naturale" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 93,
+    "fields": { "name": "Aubrey Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 96,
+    "fields": { "name": "Auromere" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 99,
+    "fields": { "name": "Australis" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 102,
+    "fields": { "name": "Avalea" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 105,
+    "fields": { "name": "Avalon Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 108,
+    "fields": { "name": "Aveda" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 111,
+    "fields": { "name": "Axiology" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 114,
+    "fields": { "name": "Babo Botanicals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 117,
+    "fields": { "name": "Badger" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 120,
+    "fields": { "name": "Balm Balm" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 123,
+    "fields": { "name": "Barefaced Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 126,
+    "fields": { "name": "bareMinerals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 129,
+    "fields": { "name": "Barry M" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 132,
+    "fields": { "name": "Beauty Without Cruelty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 135,
+    "fields": { "name": "BeautyBio" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 138,
+    "fields": { "name": "Beautyblender" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 141,
+    "fields": { "name": "Becca" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 144,
+    "fields": { "name": "Bellapierre" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 147,
+    "fields": { "name": "Ben Nye" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 150,
+    "fields": { "name": "Benecos" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 153,
+    "fields": { "name": "Besame" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 156,
+    "fields": { "name": "BH Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 159,
+    "fields": { "name": "Bite Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 162,
+    "fields": { "name": "Black Radiance" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 165,
+    "fields": { "name": "Blinc" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 168,
+    "fields": { "name": "Blissoma" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 171,
+    "fields": { "name": "Booda Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 174,
+    "fields": { "name": "Boots" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 177,
+    "fields": { "name": "Briogeo" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 180,
+    "fields": { "name": "Bulldog" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 183,
+    "fields": { "name": "Bumble and Bumble" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 186,
+    "fields": { "name": "butter LONDON" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 189,
+    "fields": { "name": "Buxom" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 192,
+    "fields": { "name": "By Rosie Jane" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 195,
+    "fields": { "name": "BYBI Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 198,
+    "fields": { "name": "C.O. Bigelow" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 201,
+    "fields": { "name": "Cailyn Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 204,
+    "fields": { "name": "Captain Blankenship" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 207,
+    "fields": { "name": "Cargo" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 210,
+    "fields": { "name": "Carol\u2019s Daughter" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 213,
+    "fields": { "name": "Caswell-Massey" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 216,
+    "fields": { "name": "Cate McNabb" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 219,
+    "fields": { "name": "Catrice" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 222,
+    "fields": { "name": "Celeb Luxury" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 225,
+    "fields": { "name": "Chantecaille" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 228,
+    "fields": { "name": "Chi Chi Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 231,
+    "fields": { "name": "China Glaze" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 234,
+    "fields": { "name": "Christophe Robin" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 237,
+    "fields": { "name": "Ciat\u00e9" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 240,
+    "fields": { "name": "Cleanwell" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 243,
+    "fields": { "name": "Clove + Hallow" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 246,
+    "fields": { "name": "Cocofloss" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 249,
+    "fields": { "name": "Coloured Raine" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 252,
+    "fields": { "name": "Colourpop" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 255,
+    "fields": { "name": "Commodity" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 258,
+    "fields": { "name": "Concrete Minerals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 261,
+    "fields": { "name": "Coola" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 264,
+    "fields": { "name": "Copycat Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 267,
+    "fields": { "name": "Cosmedix" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 270,
+    "fields": { "name": "Cover FX" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 273,
+    "fields": { "name": "Covergirl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 276,
+    "fields": { "name": "Crazy Rumors" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 279,
+    "fields": { "name": "Crystal" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 282,
+    "fields": { "name": "CYO Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 285,
+    "fields": { "name": "D. S. & Durga" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 288,
+    "fields": { "name": "Das Boom" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 291,
+    "fields": { "name": "Davids" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 294,
+    "fields": { "name": "De Mamiel" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 297,
+    "fields": { "name": "Deborah Lippmann" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 300,
+    "fields": { "name": "Deck of Scarlet" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 303,
+    "fields": { "name": "Deco Miami" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 306,
+    "fields": { "name": "Deep Steep" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 309,
+    "fields": { "name": "Demes" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 312,
+    "fields": { "name": "Derma E" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 315,
+    "fields": { "name": "DERMAdoctor" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 318,
+    "fields": { "name": "Dermalogica" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 321,
+    "fields": { "name": "DermOrganic" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 324,
+    "fields": { "name": "Desert Essence" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 327,
+    "fields": { "name": "DevaCurl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 330,
+    "fields": { "name": "DeVita" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 333,
+    "fields": { "name": "Doll 10" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 336,
+    "fields": { "name": "Dose Of Colors" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 339,
+    "fields": { "name": "dpHUE" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 342,
+    "fields": { "name": "Dr. Alkaitis" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 345,
+    "fields": { "name": "Dr. Barbara Sturm" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 348,
+    "fields": { "name": "Dr. Bronner\u2019s" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 351,
+    "fields": { "name": "Dr. Dennis Gross" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 354,
+    "fields": { "name": "Dr. Hauschka" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 357,
+    "fields": { "name": "Dr. Loretta" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 360,
+    "fields": { "name": "Drunk Elephant" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 363,
+    "fields": { "name": "Drybar" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 366,
+    "fields": { "name": "DuWop" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 369,
+    "fields": { "name": "Earth Friendly Products / ECOS" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 372,
+    "fields": { "name": "Earth Tu Face" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 375,
+    "fields": { "name": "Earth\u2019s Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 378,
+    "fields": { "name": "Ecco Bella" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 381,
+    "fields": { "name": "EcoColors" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 384,
+    "fields": { "name": "EcoTools" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 387,
+    "fields": { "name": "Edible Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 390,
+    "fields": { "name": "Edward Bess" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 393,
+    "fields": { "name": "Elate" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 396,
+    "fields": { "name": "Elemis" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 399,
+    "fields": { "name": "Eleven Australia" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 402,
+    "fields": { "name": "elf" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 405,
+    "fields": { "name": "Elixery" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 408,
+    "fields": { "name": "Elizabeth Grant" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 411,
+    "fields": { "name": "Ella + Mila" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 414,
+    "fields": { "name": "Ellis Faas" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 417,
+    "fields": { "name": "Ellovi" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 420,
+    "fields": { "name": "Emani" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 423,
+    "fields": { "name": "Embryolisse" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 426,
+    "fields": { "name": "EO Products" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 429,
+    "fields": { "name": "Epic Blend" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 432,
+    "fields": { "name": "Ere Perez" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 435,
+    "fields": { "name": "Essence" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 438,
+    "fields": { "name": "Eva Nyc" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 441,
+    "fields": { "name": "Everyday Minerals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 444,
+    "fields": { "name": "EVOLVh" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 447,
+    "fields": { "name": "Eyeko" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 450,
+    "fields": { "name": "Face Atelier" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 453,
+    "fields": { "name": "Fairy Girl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 456,
+    "fields": { "name": "Faith In Nature" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 459,
+    "fields": { "name": "Farmacy Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 462,
+    "fields": { "name": "Farsali" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 465,
+    "fields": { "name": "Fiona Stiles" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 468,
+    "fields": { "name": "Fior Minerals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 471,
+    "fields": { "name": "First Aid Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 474,
+    "fields": { "name": "Fitglow" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 477,
+    "fields": { "name": "Flora + Bast" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 480,
+    "fields": { "name": "Flower" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 483,
+    "fields": { "name": "Forager Botanicals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 486,
+    "fields": { "name": "Formulary 55" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 489,
+    "fields": { "name": "Fortune Cookie Soap" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 492,
+    "fields": { "name": "Frank Body" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 495,
+    "fields": { "name": "French Girl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 498,
+    "fields": { "name": "Function of beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 501,
+    "fields": { "name": "Furless" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 504,
+    "fields": { "name": "Gabriel Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 507,
+    "fields": { "name": "Gerard Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 510,
+    "fields": { "name": "Giovanni" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 513,
+    "fields": { "name": "Girlactik" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 516,
+    "fields": { "name": "Gisou" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 519,
+    "fields": { "name": "Glo Skin Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 522,
+    "fields": { "name": "Gloss Moderne" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 525,
+    "fields": { "name": "Glossier" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 528,
+    "fields": { "name": "Good Dye Young" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 531,
+    "fields": { "name": "GOSH" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 534,
+    "fields": { "name": "Grande Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 537,
+    "fields": { "name": "Graydon" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 540,
+    "fields": { "name": "Gressa" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 543,
+    "fields": { "name": "H2O Plus" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 546,
+    "fields": { "name": "Habit" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 546,
+    "fields": { "name": "Habit" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 552,
+    "fields": { "name": "HAN" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 555,
+    "fields": { "name": "Hana Organic Skincare" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 558,
+    "fields": { "name": "Hard Candy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 561,
+    "fields": { "name": "Harvey Prince Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 564,
+    "fields": { "name": "Hask" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 567,
+    "fields": { "name": "Hello Products" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 570,
+    "fields": { "name": "Hempme" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 573,
+    "fields": { "name": "Hempz" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 576,
+    "fields": { "name": "Herbatint" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 579,
+    "fields": { "name": "Herbivore Botanicals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 582,
+    "fields": { "name": "Honore Des Pres" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 585,
+    "fields": { "name": "Hourglass" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 588,
+    "fields": { "name": "House of Lashes" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 591,
+    "fields": { "name": "Hugo Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 594,
+    "fields": { "name": "Hurraw!" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 597,
+    "fields": { "name": "Hush + Dotti" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 600,
+    "fields": { "name": "Hynt Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 603,
+    "fields": { "name": "I Am Selfcare" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 606,
+    "fields": { "name": "IGK" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 609,
+    "fields": { "name": "Iles Formula" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 612,
+    "fields": { "name": "ILIA" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 615,
+    "fields": { "name": "Illamasqua" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 618,
+    "fields": { "name": "Indie Lee" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 621,
+    "fields": { "name": "Inika" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 624,
+    "fields": { "name": "InstaNatural" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 627,
+    "fields": { "name": "Isle of Paradise" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 630,
+    "fields": { "name": "IT Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 633,
+    "fields": { "name": "It\u2019s A 10" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 636,
+    "fields": { "name": "J.R. Watkins" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 639,
+    "fields": { "name": "Jack Black" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 642,
+    "fields": { "name": "Jane" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 645,
+    "fields": { "name": "Jane Iredale" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 648,
+    "fields": { "name": "Japonesque" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 651,
+    "fields": { "name": "JASON" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 654,
+    "fields": { "name": "Jeffree Star" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 657,
+    "fields": { "name": "JINsoon" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 660,
+    "fields": { "name": "John Masters Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 663,
+    "fields": { "name": "Jordana" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 666,
+    "fields": { "name": "Josh Rosebrook" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 669,
+    "fields": { "name": "Josie Maran" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 672,
+    "fields": { "name": "Jouer" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 675,
+    "fields": { "name": "Juice Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 678,
+    "fields": { "name": "Julep" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 681,
+    "fields": { "name": "Juvia\u2019s Place" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 684,
+    "fields": { "name": "Kahina Giving Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 687,
+    "fields": { "name": "Kaia Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 690,
+    "fields": { "name": "Kari Gran" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 693,
+    "fields": { "name": "Kat Von D" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 696,
+    "fields": { "name": "Kate Somerville" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 699,
+    "fields": { "name": "Kenra" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 702,
+    "fields": { "name": "Kesha Rose Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 705,
+    "fields": { "name": "Kester Black" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 708,
+    "fields": { "name": "Kevin Murphy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 711,
+    "fields": { "name": "Kiko" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 714,
+    "fields": { "name": "Kirkland Signature" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 717,
+    "fields": { "name": "Kiss My Face" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 720,
+    "fields": { "name": "Kjaer Weis" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 723,
+    "fields": { "name": "KKW Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 726,
+    "fields": { "name": "Koh Gen Do" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 729,
+    "fields": { "name": "Kopari Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 732,
+    "fields": { "name": "Kora Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 735,
+    "fields": { "name": "Kosas" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 738,
+    "fields": { "name": "Kryolan" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 741,
+    "fields": { "name": "Kylie Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 744,
+    "fields": { "name": "Kypris" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 747,
+    "fields": { "name": "LA Girl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 750,
+    "fields": { "name": "Lancer" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 753,
+    "fields": { "name": "Lanolips" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 756,
+    "fields": { "name": "Lather" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 759,
+    "fields": { "name": "Laura Geller" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 762,
+    "fields": { "name": "Lauren B. Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 765,
+    "fields": { "name": "Lavanila" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 768,
+    "fields": { "name": "Le Couvent Des Minimes" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 771,
+    "fields": { "name": "Le Labo" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 774,
+    "fields": { "name": "Le Petit Olivier" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 777,
+    "fields": { "name": "Level Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 780,
+    "fields": { "name": "Lilah B." }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 783,
+    "fields": { "name": "Lily Lolo" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 786,
+    "fields": { "name": "Lina Hanson" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 789,
+    "fields": { "name": "Linda Hallberg" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 792,
+    "fields": { "name": "Lit Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 795,
+    "fields": { "name": "Live Clean" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 798,
+    "fields": { "name": "Living Proof" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 801,
+    "fields": { "name": "Liz Earle" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 804,
+    "fields": { "name": "Lotus Wei" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 807,
+    "fields": { "name": "Lulu Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 810,
+    "fields": { "name": "Lunar Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 813,
+    "fields": { "name": "Lurk" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 816,
+    "fields": { "name": "LUSH" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 819,
+    "fields": { "name": "LVX" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 822,
+    "fields": { "name": "Mad Hippie" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 825,
+    "fields": { "name": "Madara Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 828,
+    "fields": { "name": "Madison Reed" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 831,
+    "fields": { "name": "Ma\u00eblys Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 834,
+    "fields": { "name": "MAHALO" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 837,
+    "fields": { "name": "Maison Louis Marie" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 840,
+    "fields": { "name": "Makeup Geek" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 843,
+    "fields": { "name": "Manic Panic" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 846,
+    "fields": { "name": "Marc Jacobs Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 849,
+    "fields": { "name": "Marcelle" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 852,
+    "fields": { "name": "Maria Nila" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 855,
+    "fields": { "name": "Mario Badescu" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 858,
+    "fields": { "name": "Marks & Spencer" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 861,
+    "fields": { "name": "Marula" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 864,
+    "fields": { "name": "May Lindstrom" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 867,
+    "fields": { "name": "Mehron" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 870,
+    "fields": { "name": "Melt Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 873,
+    "fields": { "name": "Meow Meow Tweet" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 876,
+    "fields": { "name": "Merle Norman" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 879,
+    "fields": { "name": "Method" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 882,
+    "fields": { "name": "Milani" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 885,
+    "fields": { "name": "Milk Makeup" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 888,
+    "fields": { "name": "Mineral Fusion" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 891,
+    "fields": { "name": "Molly\u2019s Suds" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 894,
+    "fields": { "name": "Molton Brown" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 897,
+    "fields": { "name": "Moroccanoil" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 900,
+    "fields": { "name": "Mukti" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 903,
+    "fields": { "name": "MuLondon" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 906,
+    "fields": { "name": "MUN" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 909,
+    "fields": { "name": "Murad" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 912,
+    "fields": { "name": "MV Organic Skincare" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 915,
+    "fields": { "name": "My Daughter Fragrances" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 918,
+    "fields": { "name": "My Konjac Sponge" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 921,
+    "fields": { "name": "Nabla Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 924,
+    "fields": { "name": "Nad\u2019s" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 927,
+    "fields": { "name": "Nanshy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 930,
+    "fields": { "name": "Natasha Denona" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 933,
+    "fields": { "name": "Natio" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 936,
+    "fields": { "name": "Natura" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 939,
+    "fields": { "name": "Nature Clean" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 942,
+    "fields": { "name": "Nature\u2019s Gate" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 945,
+    "fields": { "name": "NCLA" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 948,
+    "fields": { "name": "Nellie\u2019s" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 951,
+    "fields": { "name": "NEST Fragrances" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 954,
+    "fields": { "name": "Nip + Fab" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 957,
+    "fields": { "name": "No B.S" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 960,
+    "fields": { "name": "No7" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 963,
+    "fields": { "name": "Nourish Organic" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 966,
+    "fields": { "name": "Nubian Heritage" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 969,
+    "fields": { "name": "Nude By Nature" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 972,
+    "fields": { "name": "Nude Skincare" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 975,
+    "fields": { "name": "nyl" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 978,
+    "fields": { "name": "NYX" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 981,
+    "fields": { "name": "Obsessive Compulsive Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 984,
+    "fields": { "name": "Odacite" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 987,
+    "fields": { "name": "Odylique" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 990,
+    "fields": { "name": "OFRA Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 993,
+    "fields": { "name": "Olaplex" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 996,
+    "fields": { "name": "Ole Henriksen" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 999,
+    "fields": { "name": "Omorovicza" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1002,
+    "fields": { "name": "One Love Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1005,
+    "fields": { "name": "Oribe" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1008,
+    "fields": { "name": "Orly" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1011,
+    "fields": { "name": "OSEA Malibu" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1014,
+    "fields": { "name": "Ouai" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1017,
+    "fields": { "name": "Ouidad" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1020,
+    "fields": { "name": "Out of Africa" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1023,
+    "fields": { "name": "oVertone" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1026,
+    "fields": { "name": "OZ Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1029,
+    "fields": { "name": "Pacifica" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1032,
+    "fields": { "name": "Pai" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1035,
+    "fields": { "name": "Painted Earth" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1038,
+    "fields": { "name": "Palladio" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1041,
+    "fields": { "name": "Pangea Organics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1044,
+    "fields": { "name": "Patchology" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1047,
+    "fields": { "name": "Paul Mitchell" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1050,
+    "fields": { "name": "Paula\u2019s Choice" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1053,
+    "fields": { "name": "Peace Out" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1056,
+    "fields": { "name": "Penhaligon\u2019s" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1059,
+    "fields": { "name": "Perfekt" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1062,
+    "fields": { "name": "Perricone MD" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1065,
+    "fields": { "name": "Phlur" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1068,
+    "fields": { "name": "Pinrose" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1071,
+    "fields": { "name": "PiperWai" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1074,
+    "fields": { "name": "Pixi" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1077,
+    "fields": { "name": "Plant Apothecary" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1080,
+    "fields": { "name": "Pour Le Monde" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1083,
+    "fields": { "name": "Pravana" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1086,
+    "fields": { "name": "Primal Pit Paste" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1089,
+    "fields": { "name": "Priti NYC" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1092,
+    "fields": { "name": "Province Apothecary" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1095,
+    "fields": { "name": "Pupa Milano" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1098,
+    "fields": { "name": "PUR Cosmetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1101,
+    "fields": { "name": "Puracy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1104,
+    "fields": { "name": "Pure Anada" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1107,
+    "fields": { "name": "Queen Helene" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1110,
+    "fields": { "name": "Radical Skincare" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1113,
+    "fields": { "name": "Rahua" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1116,
+    "fields": { "name": "Rare Elements" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1119,
+    "fields": { "name": "Raw Sugar" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1122,
+    "fields": { "name": "RCMA" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1125,
+    "fields": { "name": "Real Simple Clean" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1128,
+    "fields": { "name": "Real Techniques" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1131,
+    "fields": { "name": "Red Apple Lipstick" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1134,
+    "fields": { "name": "REN" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1137,
+    "fields": { "name": "Renee Rouleau" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1140,
+    "fields": { "name": "Reverie" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1140,
+    "fields": { "name": "Reverie" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1146,
+    "fields": { "name": "Rita Hazan" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1149,
+    "fields": { "name": "Rituel De Fille" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1152,
+    "fields": { "name": "RMS Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1155,
+    "fields": { "name": "Rodial" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1158,
+    "fields": { "name": "Root Science" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1161,
+    "fields": { "name": "Rouge Bunny Rouge" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1164,
+    "fields": { "name": "S.W. Basics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1167,
+    "fields": { "name": "Saavy Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1170,
+    "fields": { "name": "Sachajuan" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1173,
+    "fields": { "name": "Samana Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1176,
+    "fields": { "name": "Sand & Sky" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1179,
+    "fields": { "name": "Sappho" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1182,
+    "fields": { "name": "Saranghae" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1185,
+    "fields": { "name": "Schmidt\u2019s Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1188,
+    "fields": { "name": "Scotch Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1191,
+    "fields": { "name": "Seche" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1194,
+    "fields": { "name": "Seventh Generation" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1197,
+    "fields": { "name": "Shea Moisture" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1200,
+    "fields": { "name": "Sibu" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1203,
+    "fields": { "name": "Silk Naturals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1206,
+    "fields": { "name": "Skin Laundry" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1209,
+    "fields": { "name": "Skinny & Co" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1212,
+    "fields": { "name": "skyn ICELAND" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1215,
+    "fields": { "name": "Sleek" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1218,
+    "fields": { "name": "Smashbox" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1221,
+    "fields": { "name": "Smith & Cult" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1224,
+    "fields": { "name": "Soapwalla" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1227,
+    "fields": { "name": "Sol de Janeiro" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1230,
+    "fields": { "name": "Sonia Kashuk" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1233,
+    "fields": { "name": "SpaRitual" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1236,
+    "fields": { "name": "St. Ives" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1239,
+    "fields": { "name": "Stargazer" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1242,
+    "fields": { "name": "Stellar Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1245,
+    "fields": { "name": "Stila" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1248,
+    "fields": { "name": "Strange Invisible" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1251,
+    "fields": { "name": "Studio Makeup" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1254,
+    "fields": { "name": "Sugar Venom" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1257,
+    "fields": { "name": "Sugarpill" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1260,
+    "fields": { "name": "Suki" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1263,
+    "fields": { "name": "Sukin" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1266,
+    "fields": { "name": "Summer Fridays" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1269,
+    "fields": { "name": "Sunday Riley" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1272,
+    "fields": { "name": "Suntegrity" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1275,
+    "fields": { "name": "Superdrug" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1278,
+    "fields": { "name": "Supergoop!" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1281,
+    "fields": { "name": "Suva Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1284,
+    "fields": { "name": "Tarte" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1287,
+    "fields": { "name": "Tata Harper" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1290,
+    "fields": { "name": "TATCHA" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1293,
+    "fields": { "name": "Terra Nova" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1296,
+    "fields": { "name": "The 7 Virtues" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1299,
+    "fields": { "name": "The Beauty Chef" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1302,
+    "fields": { "name": "The Body Shop" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1305,
+    "fields": { "name": "The Gnarly Whale" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1308,
+    "fields": { "name": "The Green Beaver Company" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1311,
+    "fields": { "name": "The Ordinary" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1314,
+    "fields": { "name": "The Seaweed Bath Co." }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1317,
+    "fields": { "name": "theBalm" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1320,
+    "fields": { "name": "Thesis" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1323,
+    "fields": { "name": "Thrive Causemetics" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1326,
+    "fields": { "name": "TO112" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1329,
+    "fields": { "name": "Tom\u2019s of Maine" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1332,
+    "fields": { "name": "Too Faced" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1335,
+    "fields": { "name": "Trader Joe\u2019s" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1338,
+    "fields": { "name": "Tree Hut" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1341,
+    "fields": { "name": "tr\u00e8StiQue" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1344,
+    "fields": { "name": "Trilogy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1347,
+    "fields": { "name": "Trish McEvoy" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1350,
+    "fields": { "name": "Trufora" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1353,
+    "fields": { "name": "Trust Fund Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1356,
+    "fields": { "name": "Tsi-La" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1359,
+    "fields": { "name": "Tula" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1362,
+    "fields": { "name": "Umberto Giannini" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1365,
+    "fields": { "name": "Urban Decay" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1368,
+    "fields": { "name": "Ursa Major" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1371,
+    "fields": { "name": "Vapour Organic Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1374,
+    "fields": { "name": "Velvet Report" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1377,
+    "fields": { "name": "Verb" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1380,
+    "fields": { "name": "Vered Organic Botanicals" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1383,
+    "fields": { "name": "Vernon Francois" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1386,
+    "fields": { "name": "Vintner\u2019s Daughter" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1389,
+    "fields": { "name": "Vitruvi" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1392,
+    "fields": { "name": "Volition Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1395,
+    "fields": { "name": "W3ll People" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 2,
+    "fields": { "name": "Petit Vour" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1398,
+    "fields": { "name": "Wander Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1401,
+    "fields": { "name": "Weleda" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1404,
+    "fields": { "name": "WEN by Chaz Dean" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1407,
+    "fields": { "name": "Whish" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1410,
+    "fields": { "name": "Whole Foods (365)" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1413,
+    "fields": { "name": "Wunderbrow" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1416,
+    "fields": { "name": "Yarok" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1419,
+    "fields": { "name": "Yes To" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1422,
+    "fields": { "name": "Youngblood" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1425,
+    "fields": { "name": "Youth To The People" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1428,
+    "fields": { "name": "YUNI Beauty" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1431,
+    "fields": { "name": "Zoeva" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1434,
+    "fields": { "name": "Zoya" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1437,
+    "fields": { "name": "Zuii Organic" }
+  },
+  {
+    "model": "cruelty_free_companies.Company",
+    "pk": 1440,
+    "fields": { "name": "ZuZu Luxe" }
+  }
+]
