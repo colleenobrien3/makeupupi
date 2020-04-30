@@ -1,0 +1,1 @@
+web: gunicorn makeupupi_django.wsgi --log-file -

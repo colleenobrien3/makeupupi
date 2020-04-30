@@ -13,6 +13,10 @@ ipython = "*"
 djangorestframework = "*"
 requests = "*"
 bs4 = "*"
+django-heroku = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.8"
