@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'cruelty_free_companies',
     'django_extensions',
     'rest_framework',
-    'corsheaders'
+    'corsheaders',
+    'autocomplete'
 ]
 
 MIDDLEWARE = [

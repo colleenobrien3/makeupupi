@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('cruelty_free_companies.urls'))
+    path('', include('cruelty_free_companies.urls')),
+    path('', include('autocomplete.urls'))
 ]
