@@ -29,7 +29,7 @@ In order to setup the API and database locally, you will need the following inst
 In your command line, enter:
 
 ```
-git clone https://github.com/colleenobrien3/programmingChallengeAPI.git
+git clone https://github.com/colleenobrien3/makeupupi.git
 ```
 
 2. Enter cloned repository.
